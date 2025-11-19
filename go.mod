@@ -1,4 +1,4 @@
-module github.com/pewi2017/go-deep
+module github.com/PeWi2017/go-deep
 
 go 1.13
 
